@@ -63,7 +63,7 @@ public class Main extends Applet {
     }
 
     private void find_rec(int[] placement, int rank) {
-        for (int file = 0; file < size; i++) {
+        for (int file = 0; file < size; file++) {
             if (check(placement, rank, file)) {
                 placement[rank] = file;
                 if (rank == size - 1) {
