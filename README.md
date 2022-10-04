@@ -1,5 +1,7 @@
 # The $N$-queens Problem Solver
 
+[![CI](https://github.com/megabyde/n-queens-solver/actions/workflows/main.yml/badge.svg)](https://github.com/megabyde/n-queens-solver/actions/workflows/main.yml)
+
 ## Overview
 
 The $N$-queens problem asks:
